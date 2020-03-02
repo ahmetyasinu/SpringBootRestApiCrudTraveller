@@ -1,13 +1,13 @@
-package com.devau.hotel;
+package com.devau.travel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HotelApplication {
+public class TravelApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HotelApplication.class, args);
+        SpringApplication.run(TravelApplication.class, args);
     }
 
 }
